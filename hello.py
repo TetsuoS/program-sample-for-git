@@ -1,9 +1,5 @@
 ﻿#!/usr/bin/python
 
-counter = 5
-
-while counter > 0:
+for i in range(10):
    print("Hello, Python!")
-   counter = counter -1
-
 
